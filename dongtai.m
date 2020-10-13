@@ -1,7 +1,6 @@
 function dynamic=dongtai(v,range,px,py,vx,vy)
 % dynamic=dongtai(3,12,80,0,0,1)
 global h1;
-% global h2;
 persistent x;
 persistent y;
 
